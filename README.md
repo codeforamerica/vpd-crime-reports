@@ -5,7 +5,7 @@ Available [here](http://codeforamerica.github.io/vpd-crime-reports).
 
 ## Background
 
-This project uses data from crimereports.com to generate heat maps of where crime is happening in Vallejo. Currently, this showing all reported burglaries that have occurred within the last 30 days.
+This project uses data from crimereports.com to generate heat maps of where crime is happening in Vallejo. Currently, this is showing all reported burglaries that have occurred within the last 30 days.
 
 ## TODO
 
