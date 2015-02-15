@@ -13,4 +13,3 @@ This project uses data from crimereports.com to generate heat maps of where crim
 - [ ] add build instructions to readme
 - [ ] support filtering by crime type
 - [ ] build an proper backend
-- 
