@@ -1,7 +1,7 @@
 # vpd-crime-reports
 There's crime happening in Vallejo, CA. Let's see where.
 
-Available [here](codeforamerica.github.io/vpd-crime-reports).
+Available [here](http://codeforamerica.github.io/vpd-crime-reports).
 
 ## Background
 
